@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'komunitas',
-	'dbdriver' => 'mysqli',
+	'hostname' => 'ec2-52-73-155-171.compute-1.amazonaws.com',
+	'username' => 'zxspdhgczakcrl',
+	'password' => '458335528e0d00737b044df87304e9e437718fd0dbf60bd069752d1093ab8b57',
+	'database' => 'd3huur0cbv2svo',
+	'dbdriver' => 'postgres',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
