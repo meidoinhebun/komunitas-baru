@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'zxspdhgczakcrl',
 	'password' => '458335528e0d00737b044df87304e9e437718fd0dbf60bd069752d1093ab8b57',
 	'database' => 'd3huur0cbv2svo',
-	'dbdriver' => 'postgres',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
